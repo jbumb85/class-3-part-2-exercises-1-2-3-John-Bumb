@@ -5,6 +5,10 @@
 // pow(3, 3) = 3 * 3 * 3 = 27
 // pow(1, 100) = 1 * 1 * ...* 1 = 1
 
+// function pow(x, n) {
+//     return x ** n
+// }
+
 function pow(x, n) {
     return Math.pow(x, n)
 }
